@@ -1,10 +1,11 @@
-package org.example;
+package src.test.java.org.example;
 
-import org.Leetcode.Leetcode2385;
-import org.Leetcode.Leetcode2437;
-import org.Leetcode.String2TreeNode;
-import org.Leetcode.TreeNode;
+
 import org.junit.Test;
+import src.java.leetcode.Leetcode2385;
+import src.java.leetcode.Leetcode2437;
+import src.java.leetcode.String2TreeNode;
+import src.java.leetcode.TreeNode;
 
 public class TestNg {
     @Test
