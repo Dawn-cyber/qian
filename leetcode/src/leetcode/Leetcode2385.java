@@ -1,4 +1,4 @@
-package src.java.leetcode;
+package leetcode;
 
 public class Leetcode2385 {
     int ans =0;

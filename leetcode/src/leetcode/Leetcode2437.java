@@ -1,4 +1,4 @@
-package src.java.leetcode;
+package leetcode;
 
 public class Leetcode2437 {
     public int countTime(String time) {

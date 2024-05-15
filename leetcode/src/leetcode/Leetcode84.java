@@ -1,4 +1,4 @@
-package src.java.leetcode;
+package leetcode;
 
 public class Leetcode84 {
     public int largestRectangleArea(int[] heights) {

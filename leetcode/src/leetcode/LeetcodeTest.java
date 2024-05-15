@@ -1,4 +1,8 @@
-package src.java.leetcode;
+package leetcode;
+
+import leetcode.Leetcode1372;
+import leetcode.String2TreeNode;
+import leetcode.TreeNode;
 
 public class LeetcodeTest {
     public static void main(String[] args) {
