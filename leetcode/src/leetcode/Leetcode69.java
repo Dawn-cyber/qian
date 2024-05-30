@@ -1,6 +1,7 @@
 package leetcode;
 
 public class Leetcode69 {
+    private String test;
     public static void main(String[] args) {
         int x = 9;
         int left = 0, right = x, ans = -1;
