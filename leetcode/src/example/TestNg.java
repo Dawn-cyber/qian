@@ -67,4 +67,28 @@ public class TestNg {
         boolean b = leetcode141.hasCycle(listNode1);
         System.out.println(b);
     }
+
+    @Test
+    public void testLeetcode171(){
+        Leetcode171 leetcode171 = new Leetcode171();
+        String s = "AB";
+        int i = leetcode171.titleToNumber(s);
+        System.out.println(i);
+    }
+
+    @Test
+    public void testLeetcode125(){
+        Leetcode125 leetcode125 = new Leetcode125();
+        String s = "0P";
+        boolean palindrome = leetcode125.isPalindrome(s);
+        System.out.println(palindrome);
+    }
+
+    @Test
+    public void testLeetcode148(){
+        Leetcode148 leetcode148 = new Leetcode148();
+        int[] input = new int[]{2,1,0};
+        int[] output = new int[]{1,2,0};
+        System.out.println(leetcode148.validateBookSequences(input,output));
+    }
 }
